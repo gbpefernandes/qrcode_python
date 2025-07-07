@@ -22,7 +22,7 @@ To explore the productivity gains and different coding approaches between tradit
 
 This repository contains:
 
- `qrcode_manual.py`: manually written implementation
+- `qrcode_manual.py`: manually written implementation
 - `qrcode_lowcode.py`: GitHub Copilot-generated implementation
 - `.venv/`: pre-configured virtual environment
 - `requirements.txt`: list of required packages
@@ -36,6 +36,7 @@ This repository contains:
 ```bash
 git clone https://github.com/gbpefernandes/qrcode_python
 cd your-repository
+```
 
 2. Activate the virtual environment:
 
@@ -43,15 +44,17 @@ Windows:
 
 ```bash
 .venv\Scripts\activate
+```
 
 Run one of the implementations:
 
 ```bash
 python qrcode_manual.py/qrcode_lowcode.py
+```
 
 ---
 
-## Comparison of Approaches
+## 📓 Comparison of Approaches
 
 | Aspect            | Manual Implementation    | GitHub Copilot (AI) Implementation   |
 | ----------------- | ------------------------ | ------------------------------------ |
