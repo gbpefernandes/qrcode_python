@@ -69,7 +69,7 @@ Both versions generate a QR Code from a valid URL, display the image, and save i
 
 **Manual Implementation Output**
 
-![Manual Implementation](manual_qrcode.pngi)
+![Manual Implementation](manual_qrcode.png)
 
 **GitHub Copilot Implementation Output**
 
