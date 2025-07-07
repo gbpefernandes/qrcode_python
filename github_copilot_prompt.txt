@@ -1,0 +1,5 @@
+Create a script in Python that asks from user to type in a URL (validate if it is a real URL or not), 
+then creates an object QR Code (you can use library "qrcode"), 
+create an image from it, 
+show it and 
+then save it on the same path as the script
